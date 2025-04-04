@@ -38,8 +38,8 @@ Copy your API key (a long string like c4f92971a0caa1507679039123bc201c).
 
 ### 🔍 Weather by City
 
-![City Weather](./screenshot1.png)
+![Weather by City](Images/screenshot1.png)
 
 ### 📍 Weather by Location
 
-![Location Weather](./screenshot2.png)
+![Weather by Location](Images/screenshot2.png)
